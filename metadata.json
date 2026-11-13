@@ -1,0 +1,6 @@
+{
+  "name": "UNAD Territorio — Educación Superior Virtual Intercultural",
+  "description": "Plataforma institucional y motivacional para el acceso a la educación superior 100% virtual de la UNAD dirigida a jóvenes, líderes y comunidades indígenas de Colombia, sin desarraigo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
